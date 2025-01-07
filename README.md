@@ -6,7 +6,6 @@
 # EXP-06 Monitoring distance value in Thing speak cloud using ultrasonic sensor and ESP32 controller
 
 
-# Uploading ultrasonic sensor data in Thing Speak cloud
 
 # AIM:
 To monitor the distance of the obstacle in the Thing speak cloud using ultrasonic sensor and ESP32 controller.
